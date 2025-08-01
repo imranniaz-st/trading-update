@@ -135,19 +135,19 @@ if (!function_exists('updateEnvValue')) {
     }
 }
 
-//retrive setting
-if (!function_exists('site')) {
-    function site($key)
-    {
-        $site = app('site');
-        if ($key == 'template') {
-            $template = session()->get('template', $site->get($key)->value);
-            // dd($template);
-            return $template;
-        }
-        return $site->get($key)->value ?? null;
-    }
-}
+// //retrive setting
+// if (!function_exists('site')) {
+//     function site($key)
+//     {
+//         $site = app('site');
+//         if ($key == 'template') {
+//             $template = session()->get('template', $site->get($key)->value);
+//             // dd($template);
+//             return $template;
+//         }
+//         return $site->get($key)->value ?? null;
+//     }
+// }
 
 //update setting
 if (!function_exists('updateSite')) {
