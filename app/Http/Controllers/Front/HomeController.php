@@ -40,7 +40,7 @@ class HomeController extends Controller
         return view(template('pages.pricing'));
     }
 
-    // tos
+    // tos     
     public function tos()
     {
         return view(template('pages.tos'));
