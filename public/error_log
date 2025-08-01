@@ -1,0 +1,162 @@
+[01-Aug-2025 16:13:13 UTC] PHP Warning:  require(/home/m4millio/ticket.cyberspulse.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/m4millio/ticket.cyberspulse.com/public/index.php on line 60
+[01-Aug-2025 16:13:13 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/m4millio/ticket.cyberspulse.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/m4millio/ticket.cyberspulse.com/public/index.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/m4millio/ticket.cyberspulse.com/public/index.php on line 60
+[01-Aug-2025 16:15:39 UTC] PHP Warning:  require(/home/m4millio/ticket.cyberspulse.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/m4millio/ticket.cyberspulse.com/public/index.php on line 60
+[01-Aug-2025 16:15:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/m4millio/ticket.cyberspulse.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/m4millio/ticket.cyberspulse.com/public/index.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/m4millio/ticket.cyberspulse.com/public/index.php on line 60
+[01-Aug-2025 16:17:06 UTC] PHP Warning:  require(/home/m4millio/ticket.cyberspulse.com/vendor/composer/../spotier/src/neo.php): Failed to open stream: No such file or directory in /home/m4millio/ticket.cyberspulse.com/vendor/composer/autoload_real.php on line 41
+[01-Aug-2025 16:17:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/m4millio/ticket.cyberspulse.com/vendor/composer/../spotier/src/neo.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/m4millio/ticket.cyberspulse.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/m4millio/ticket.cyberspulse.com/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/m4millio/ticket.cyberspulse.com/vendor/autoload.php(25): ComposerAutoloaderInit84fdc1884eacb4c1849248a1159ef363::getLoader()
+#2 /home/m4millio/ticket.cyberspulse.com/public/index.php(60): require('/home/m4millio/...')
+#3 {main}
+  thrown in /home/m4millio/ticket.cyberspulse.com/vendor/composer/autoload_real.php on line 41
+[01-Aug-2025 16:21:24 UTC] PHP Warning:  require(/home/m4millio/ticket.cyberspulse.com/vendor/composer/../spotier/src/neo.php): Failed to open stream: No such file or directory in /home/m4millio/ticket.cyberspulse.com/vendor/composer/autoload_real.php on line 41
+[01-Aug-2025 16:21:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/m4millio/ticket.cyberspulse.com/vendor/composer/../spotier/src/neo.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/m4millio/ticket.cyberspulse.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/m4millio/ticket.cyberspulse.com/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/m4millio/ticket.cyberspulse.com/vendor/autoload.php(25): ComposerAutoloaderInit84fdc1884eacb4c1849248a1159ef363::getLoader()
+#2 /home/m4millio/ticket.cyberspulse.com/public/index.php(60): require('/home/m4millio/...')
+#3 {main}
+  thrown in /home/m4millio/ticket.cyberspulse.com/vendor/composer/autoload_real.php on line 41
+[01-Aug-2025 16:25:14 UTC] PHP Warning:  require(/home/m4millio/ticket.cyberspulse.com/vendor/composer/../spotier/src/neo.php): Failed to open stream: No such file or directory in /home/m4millio/ticket.cyberspulse.com/vendor/composer/autoload_real.php on line 41
+[01-Aug-2025 16:25:14 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/m4millio/ticket.cyberspulse.com/vendor/composer/../spotier/src/neo.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/m4millio/ticket.cyberspulse.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/m4millio/ticket.cyberspulse.com/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/m4millio/ticket.cyberspulse.com/vendor/autoload.php(25): ComposerAutoloaderInit0aff618d27e9468bd40982b39137d244::getLoader()
+#2 /home/m4millio/ticket.cyberspulse.com/public/index.php(60): require('/home/m4millio/...')
+#3 {main}
+  thrown in /home/m4millio/ticket.cyberspulse.com/vendor/composer/autoload_real.php on line 41
+[01-Aug-2025 16:27:16 UTC] PHP Warning:  require(/home/m4millio/ticket.cyberspulse.com/vendor/composer/../spotier/src/neo.php): Failed to open stream: No such file or directory in /home/m4millio/ticket.cyberspulse.com/vendor/composer/autoload_real.php on line 41
+[01-Aug-2025 16:27:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/m4millio/ticket.cyberspulse.com/vendor/composer/../spotier/src/neo.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/m4millio/ticket.cyberspulse.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/m4millio/ticket.cyberspulse.com/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/m4millio/ticket.cyberspulse.com/vendor/autoload.php(25): ComposerAutoloaderInit0aff618d27e9468bd40982b39137d244::getLoader()
+#2 /home/m4millio/ticket.cyberspulse.com/public/index.php(60): require('/home/m4millio/...')
+#3 {main}
+  thrown in /home/m4millio/ticket.cyberspulse.com/vendor/composer/autoload_real.php on line 41
+[01-Aug-2025 16:30:22 UTC] PHP Warning:  require(/home/m4millio/cryptoconsult.services/vendor/composer/../spotier/src/neo.php): Failed to open stream: No such file or directory in /home/m4millio/cryptoconsult.services/vendor/composer/autoload_real.php on line 41
+[01-Aug-2025 16:30:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/m4millio/cryptoconsult.services/vendor/composer/../spotier/src/neo.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/m4millio/cryptoconsult.services/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/m4millio/cryptoconsult.services/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/m4millio/cryptoconsult.services/vendor/autoload.php(25): ComposerAutoloaderInit0aff618d27e9468bd40982b39137d244::getLoader()
+#2 /home/m4millio/cryptoconsult.services/public/index.php(60): require('/home/m4millio/...')
+#3 {main}
+  thrown in /home/m4millio/cryptoconsult.services/vendor/composer/autoload_real.php on line 41
+[01-Aug-2025 16:30:47 UTC] PHP Warning:  require(/home/m4millio/cryptoconsult.services/vendor/composer/../spotier/src/neo.php): Failed to open stream: No such file or directory in /home/m4millio/cryptoconsult.services/vendor/composer/autoload_real.php on line 41
+[01-Aug-2025 16:30:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/m4millio/cryptoconsult.services/vendor/composer/../spotier/src/neo.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/m4millio/cryptoconsult.services/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/m4millio/cryptoconsult.services/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/m4millio/cryptoconsult.services/vendor/autoload.php(25): ComposerAutoloaderInit0aff618d27e9468bd40982b39137d244::getLoader()
+#2 /home/m4millio/cryptoconsult.services/public/index.php(60): require('/home/m4millio/...')
+#3 {main}
+  thrown in /home/m4millio/cryptoconsult.services/vendor/composer/autoload_real.php on line 41
+[01-Aug-2025 16:30:54 UTC] PHP Warning:  require(/home/m4millio/cryptoconsult.services/vendor/composer/../spotier/src/neo.php): Failed to open stream: No such file or directory in /home/m4millio/cryptoconsult.services/vendor/composer/autoload_real.php on line 41
+[01-Aug-2025 16:30:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/m4millio/cryptoconsult.services/vendor/composer/../spotier/src/neo.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/m4millio/cryptoconsult.services/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/m4millio/cryptoconsult.services/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/m4millio/cryptoconsult.services/vendor/autoload.php(25): ComposerAutoloaderInit0aff618d27e9468bd40982b39137d244::getLoader()
+#2 /home/m4millio/cryptoconsult.services/public/index.php(60): require('/home/m4millio/...')
+#3 {main}
+  thrown in /home/m4millio/cryptoconsult.services/vendor/composer/autoload_real.php on line 41
+[01-Aug-2025 16:33:11 UTC] PHP Warning:  require(/home/m4millio/ticket.cyberspulse.com/vendor/composer/../spotier/src/neo.php): Failed to open stream: No such file or directory in /home/m4millio/ticket.cyberspulse.com/vendor/composer/autoload_real.php on line 41
+[01-Aug-2025 16:33:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/m4millio/ticket.cyberspulse.com/vendor/composer/../spotier/src/neo.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/m4millio/ticket.cyberspulse.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/m4millio/ticket.cyberspulse.com/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/m4millio/ticket.cyberspulse.com/vendor/autoload.php(25): ComposerAutoloaderInit0aff618d27e9468bd40982b39137d244::getLoader()
+#2 /home/m4millio/ticket.cyberspulse.com/public/index.php(60): require('/home/m4millio/...')
+#3 {main}
+  thrown in /home/m4millio/ticket.cyberspulse.com/vendor/composer/autoload_real.php on line 41
+[01-Aug-2025 16:37:01 UTC] PHP Warning:  require(/home/m4millio/ticket.cyberspulse.com/vendor/composer/../spotier/src/neo.php): Failed to open stream: No such file or directory in /home/m4millio/ticket.cyberspulse.com/vendor/composer/autoload_real.php on line 41
+[01-Aug-2025 16:37:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/m4millio/ticket.cyberspulse.com/vendor/composer/../spotier/src/neo.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/m4millio/ticket.cyberspulse.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/m4millio/ticket.cyberspulse.com/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/m4millio/ticket.cyberspulse.com/vendor/autoload.php(25): ComposerAutoloaderInit0aff618d27e9468bd40982b39137d244::getLoader()
+#2 /home/m4millio/ticket.cyberspulse.com/public/index.php(60): require('/home/m4millio/...')
+#3 {main}
+  thrown in /home/m4millio/ticket.cyberspulse.com/vendor/composer/autoload_real.php on line 41
+[01-Aug-2025 16:37:20 UTC] PHP Warning:  require(/home/m4millio/ticket.cyberspulse.com/vendor/composer/../spotier/src/neo.php): Failed to open stream: No such file or directory in /home/m4millio/ticket.cyberspulse.com/vendor/composer/autoload_real.php on line 41
+[01-Aug-2025 16:37:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/m4millio/ticket.cyberspulse.com/vendor/composer/../spotier/src/neo.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/m4millio/ticket.cyberspulse.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/m4millio/ticket.cyberspulse.com/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/m4millio/ticket.cyberspulse.com/vendor/autoload.php(25): ComposerAutoloaderInit0aff618d27e9468bd40982b39137d244::getLoader()
+#2 /home/m4millio/ticket.cyberspulse.com/public/index.php(60): require('/home/m4millio/...')
+#3 {main}
+  thrown in /home/m4millio/ticket.cyberspulse.com/vendor/composer/autoload_real.php on line 41
+[01-Aug-2025 16:37:49 UTC] PHP Warning:  require(/home/m4millio/ticket.cyberspulse.com/vendor/composer/../spotier/src/neo.php): Failed to open stream: No such file or directory in /home/m4millio/ticket.cyberspulse.com/vendor/composer/autoload_real.php on line 41
+[01-Aug-2025 16:37:49 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/m4millio/ticket.cyberspulse.com/vendor/composer/../spotier/src/neo.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/m4millio/ticket.cyberspulse.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/m4millio/ticket.cyberspulse.com/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/m4millio/ticket.cyberspulse.com/vendor/autoload.php(25): ComposerAutoloaderInit0aff618d27e9468bd40982b39137d244::getLoader()
+#2 /home/m4millio/ticket.cyberspulse.com/public/index.php(60): require('/home/m4millio/...')
+#3 {main}
+  thrown in /home/m4millio/ticket.cyberspulse.com/vendor/composer/autoload_real.php on line 41
+[01-Aug-2025 16:38:19 UTC] PHP Warning:  require(/home/m4millio/ticket.cyberspulse.com/vendor/composer/../spotier/src/neo.php): Failed to open stream: No such file or directory in /home/m4millio/ticket.cyberspulse.com/vendor/composer/autoload_real.php on line 41
+[01-Aug-2025 16:38:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/m4millio/ticket.cyberspulse.com/vendor/composer/../spotier/src/neo.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/m4millio/ticket.cyberspulse.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/m4millio/ticket.cyberspulse.com/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/m4millio/ticket.cyberspulse.com/vendor/autoload.php(25): ComposerAutoloaderInit0aff618d27e9468bd40982b39137d244::getLoader()
+#2 /home/m4millio/ticket.cyberspulse.com/public/index.php(60): require('/home/m4millio/...')
+#3 {main}
+  thrown in /home/m4millio/ticket.cyberspulse.com/vendor/composer/autoload_real.php on line 41
+[01-Aug-2025 16:38:19 UTC] PHP Warning:  require(/home/m4millio/ticket.cyberspulse.com/vendor/composer/../spotier/src/neo.php): Failed to open stream: No such file or directory in /home/m4millio/ticket.cyberspulse.com/vendor/composer/autoload_real.php on line 41
+[01-Aug-2025 16:38:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/m4millio/ticket.cyberspulse.com/vendor/composer/../spotier/src/neo.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/m4millio/ticket.cyberspulse.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/m4millio/ticket.cyberspulse.com/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/m4millio/ticket.cyberspulse.com/vendor/autoload.php(25): ComposerAutoloaderInit0aff618d27e9468bd40982b39137d244::getLoader()
+#2 /home/m4millio/ticket.cyberspulse.com/public/index.php(60): require('/home/m4millio/...')
+#3 {main}
+  thrown in /home/m4millio/ticket.cyberspulse.com/vendor/composer/autoload_real.php on line 41
+[01-Aug-2025 16:38:23 UTC] PHP Warning:  require(/home/m4millio/ticket.cyberspulse.com/vendor/composer/../spotier/src/neo.php): Failed to open stream: No such file or directory in /home/m4millio/ticket.cyberspulse.com/vendor/composer/autoload_real.php on line 41
+[01-Aug-2025 16:38:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/m4millio/ticket.cyberspulse.com/vendor/composer/../spotier/src/neo.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/m4millio/ticket.cyberspulse.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/m4millio/ticket.cyberspulse.com/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/m4millio/ticket.cyberspulse.com/vendor/autoload.php(25): ComposerAutoloaderInit0aff618d27e9468bd40982b39137d244::getLoader()
+#2 /home/m4millio/ticket.cyberspulse.com/public/index.php(60): require('/home/m4millio/...')
+#3 {main}
+  thrown in /home/m4millio/ticket.cyberspulse.com/vendor/composer/autoload_real.php on line 41
+[01-Aug-2025 16:38:25 UTC] PHP Warning:  require(/home/m4millio/ticket.cyberspulse.com/vendor/composer/../spotier/src/neo.php): Failed to open stream: No such file or directory in /home/m4millio/ticket.cyberspulse.com/vendor/composer/autoload_real.php on line 41
+[01-Aug-2025 16:38:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/m4millio/ticket.cyberspulse.com/vendor/composer/../spotier/src/neo.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/m4millio/ticket.cyberspulse.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/m4millio/ticket.cyberspulse.com/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/m4millio/ticket.cyberspulse.com/vendor/autoload.php(25): ComposerAutoloaderInit0aff618d27e9468bd40982b39137d244::getLoader()
+#2 /home/m4millio/ticket.cyberspulse.com/public/index.php(60): require('/home/m4millio/...')
+#3 {main}
+  thrown in /home/m4millio/ticket.cyberspulse.com/vendor/composer/autoload_real.php on line 41
+[01-Aug-2025 16:39:06 UTC] PHP Warning:  require(/home/m4millio/ticket.cyberspulse.com/vendor/composer/../spotier/src/neo.php): Failed to open stream: No such file or directory in /home/m4millio/ticket.cyberspulse.com/vendor/composer/autoload_real.php on line 41
+[01-Aug-2025 16:39:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/m4millio/ticket.cyberspulse.com/vendor/composer/../spotier/src/neo.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/m4millio/ticket.cyberspulse.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/m4millio/ticket.cyberspulse.com/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/m4millio/ticket.cyberspulse.com/vendor/autoload.php(25): ComposerAutoloaderInit0aff618d27e9468bd40982b39137d244::getLoader()
+#2 /home/m4millio/ticket.cyberspulse.com/public/index.php(60): require('/home/m4millio/...')
+#3 {main}
+  thrown in /home/m4millio/ticket.cyberspulse.com/vendor/composer/autoload_real.php on line 41
+[01-Aug-2025 16:41:22 UTC] PHP Warning:  require(/home/m4millio/ticket.cyberspulse.com/vendor/composer/../spotier/src/neo.php): Failed to open stream: No such file or directory in /home/m4millio/ticket.cyberspulse.com/vendor/composer/autoload_real.php on line 41
+[01-Aug-2025 16:41:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/m4millio/ticket.cyberspulse.com/vendor/composer/../spotier/src/neo.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/m4millio/ticket.cyberspulse.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/m4millio/ticket.cyberspulse.com/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/m4millio/ticket.cyberspulse.com/vendor/autoload.php(25): ComposerAutoloaderInit0aff618d27e9468bd40982b39137d244::getLoader()
+#2 /home/m4millio/ticket.cyberspulse.com/public/index.php(60): require('/home/m4millio/...')
+#3 {main}
+  thrown in /home/m4millio/ticket.cyberspulse.com/vendor/composer/autoload_real.php on line 41
+[01-Aug-2025 16:43:58 UTC] PHP Warning:  require(/home/m4millio/ticket.cyberspulse.com/vendor/composer/../spotier/src/neo.php): Failed to open stream: No such file or directory in /home/m4millio/ticket.cyberspulse.com/vendor/composer/autoload_real.php on line 41
+[01-Aug-2025 16:43:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/m4millio/ticket.cyberspulse.com/vendor/composer/../spotier/src/neo.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/m4millio/ticket.cyberspulse.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/m4millio/ticket.cyberspulse.com/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/m4millio/ticket.cyberspulse.com/vendor/autoload.php(25): ComposerAutoloaderInit0aff618d27e9468bd40982b39137d244::getLoader()
+#2 /home/m4millio/ticket.cyberspulse.com/public/index.php(60): require('/home/m4millio/...')
+#3 {main}
+  thrown in /home/m4millio/ticket.cyberspulse.com/vendor/composer/autoload_real.php on line 41
+[01-Aug-2025 16:45:27 UTC] PHP Warning:  require(/home/m4millio/ticket.cyberspulse.com/vendor/composer/../spotier/src/neo.php): Failed to open stream: No such file or directory in /home/m4millio/ticket.cyberspulse.com/vendor/composer/autoload_real.php on line 41
+[01-Aug-2025 16:45:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/m4millio/ticket.cyberspulse.com/vendor/composer/../spotier/src/neo.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/m4millio/ticket.cyberspulse.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/m4millio/ticket.cyberspulse.com/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/m4millio/ticket.cyberspulse.com/vendor/autoload.php(25): ComposerAutoloaderInit0aff618d27e9468bd40982b39137d244::getLoader()
+#2 /home/m4millio/ticket.cyberspulse.com/public/index.php(60): require('/home/m4millio/...')
+#3 {main}
+  thrown in /home/m4millio/ticket.cyberspulse.com/vendor/composer/autoload_real.php on line 41
