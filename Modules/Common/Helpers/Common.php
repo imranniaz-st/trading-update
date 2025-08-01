@@ -137,17 +137,32 @@ if (!function_exists('updateEnvValue')) {
 
 //retrive setting
 if (!function_exists('site')) {
-    function site($key)
+    function site($key = null)
     {
         $site = app('site');
-        if ($key == 'template') {
-            $template = session()->get('template', $site->get($key)->value);
-            // dd($template);
+
+        // If no key is provided, return all settings as associative array
+        if (is_null($key)) {
+            $settings = $site->all(); // This should return a collection or array of all settings
+            $result = [];
+
+            foreach ($settings as $setting) {
+                $result[$setting->key] = $setting->value ?? null;
+            }
+
+            return $result;
+        }
+
+        // If key is 'template', handle session fallback
+        if ($key === 'template') {
+            $template = session()->get('template', $site->get($key)?->value);
             return $template;
         }
-        return $site->get($key)->value ?? null;
+
+        return $site->get($key)?->value ?? null;
     }
 }
+
 
 //update setting
 if (!function_exists('updateSite')) {

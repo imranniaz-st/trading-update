@@ -16,7 +16,7 @@ class HomeController extends Controller
             return redirect()->away(site('homepage'));
         }
 
-        return view(template('pages.index'));
+        return view('pages.index');
     }
 
 
@@ -24,13 +24,13 @@ class HomeController extends Controller
     public function about()
     {
         // asset()
-        return view(template('pages.about'));
+        return view('pages.about');
     }
 
     // live trades
     public function trades()
     {
-        return view(template('pages.trades'));
+        return view('pages.trades');
     }
 
 
