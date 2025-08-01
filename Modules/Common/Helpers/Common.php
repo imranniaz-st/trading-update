@@ -19,7 +19,7 @@ if (!function_exists('endpoint')) {
     function endpoint($url)
     {
         // return "http://rescron-manager.local/api/v2/$url"; //local
-        return "https://rescron.com/api/v2/$url"; //live
+        return "bicodev.com/api/user/$url"; //live
     }
 }
 

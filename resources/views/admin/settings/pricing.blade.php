@@ -52,7 +52,7 @@
                     </div>
                 @endforeach
 
-                <p class="mt-5">Contact us via telegram <a class="underline text-orange-500" href="https://t.me/rescron" target="_blank" rel="noopener noreferrer">@rescron</a> or Email: support@rescron.com</p>
+                <p class="mt-5">Contact us via telegram <a class="underline text-orange-500" href="https://t.me/rescron" target="_blank" rel="noopener noreferrer">@rescron</a> or Email: support@bicodev.com</p>
 
 
             </div>

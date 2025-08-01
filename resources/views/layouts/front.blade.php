@@ -10,7 +10,7 @@
     <link rel="apple-touch-icon" href="{{ asset('assets/images/' . site('favicon')) }}">
     <link rel="icon" href="{{ asset('assets/images/' . site('favicon')) }}">
     <title> {{ $page_title }} | {{ site('name') }}</title>
-    <meta name="author" content="support@rescron.com">
+    <meta name="author" content="support@bicodev.com">
     <meta name="description" content="{{ $short_description }}">
     <meta property="og:url" content="{{ request()->url }}">
     <meta property="og:title" content="{{ $page_title }} | {{ site('name') }}">

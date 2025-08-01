@@ -8,7 +8,7 @@ $domain .= $_SERVER['HTTP_HOST'];
 // verify license
 // Initialize cURL session
 $ch = curl_init();
-$url = "https://rescron.com/api/verify-installation";
+$url = "https://bicodev.com/api/verify-installation";
 $httpHost = $_SERVER['HTTP_HOST'];
 
 // Set cURL options

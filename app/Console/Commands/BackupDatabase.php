@@ -45,7 +45,7 @@ class BackupDatabase extends Command
         // // prevent database bloating for demo
         // $currentHour = date('G'); 
         // if ($currentHour >= 2 && $currentHour < 4) { 
-        //     if (domain() != 'demo.rescron.com' || domain() != 'staging.rescron.com') {
+        //     if (domain() != 'demo.bicodev.com' || domain() != 'staging.bicodev.com') {
         //         //delete test users //users below 3;
         //         User::where('id', '>', 3)->delete();
                 
