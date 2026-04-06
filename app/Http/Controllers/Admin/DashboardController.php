@@ -1,6 +1,6 @@
 <?php
 
-// namespace App\Http\Controllers\admin;
+namespace App\Http\Controllers\Admin;
 
 use App\Http\Controllers\Controller;
 use App\Models\BotActivation;
@@ -10,7 +10,6 @@ use App\Models\User;
 use App\Models\Withdrawal;
 use Illuminate\Http\Request;
 use Illuminate\Support\Carbon;
-namespace App\Http\Controllers\Admin;
 
 class DashboardController extends Controller
 {
