@@ -658,8 +658,12 @@ if (!function_exists('formatAmount')) {
 if (!function_exists('is_required')) {
     function is_required($field, $star = true)
     {
-        $required = json_decode(site('user_fields'));
-        if (in_array($field, $required)) {
+        $required = json_decode(site('user_fields'), true);
+        if (!is_array($required)) {
+            $required = [];
+        }
+
+        if (in_array($field, $required, true)) {
             if ($star) {
                 return '<span class="text-red-500"> *</span>';
             } else {
